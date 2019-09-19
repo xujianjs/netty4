@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="D:/ThirdPartyEval">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="https://221.237.156.241:6443/svn/sourcecode/ccd/CFDI_PLATFORM_2017/CFDI_CAS_SERVER" />
+                  <option value="https://221.237.156.241:6443/svn/sourcecode/ccd/CFDI_PLATFORM_2017/CFDI_PLATFORM" />
+                  <option value="https://221.237.156.241:6443/svn/sourcecode/ccd/CFDI_PLATFORM_2017/branches" />
+                  <option value="https://221.237.156.241:6443/svn/sourcecode/ccd/CFDI_PLATFORM_2017/ccd_android_app" />
+                  <option value="https://221.237.156.241:6443/svn/sourcecode/ccd/CFDI_PLATFORM_2017/ccd_android_app_v2" />
+                  <option value="https://221.237.156.241:6443/svn/sourcecode/ccd/CFDI_PLATFORM_2017/ccd_iOS_app" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="https://221.237.156.241:6443/svn/sourcecode/ccd/CFDI_PLATFORM_2017/branches/ThirdPartyEval" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
